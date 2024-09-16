@@ -12,4 +12,4 @@ This source code is licensed under the MIT license and can be found in the LICEN
 ## Reference
 If you find the source code useful in your research, we ask that you cite our paper:
 
-### Hossam M. Zawbaa, Wael Rashwan, Sourav Dutta, Haytham Assem, "Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification", Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), pp. 8708-8718, May 2024.
+#### Hossam M. Zawbaa, Wael Rashwan, Sourav Dutta, Haytham Assem, "Improved Out-of-Scope Intent Classification with Dual Encoding and Threshold-based Re-Classification", Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), pp. 8708-8718, May 2024.
